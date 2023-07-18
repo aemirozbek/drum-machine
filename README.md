@@ -5,11 +5,11 @@ This is a simple drum machine application built using React. It allows users to 
 ## Installation
 
 1. To run the Drum Machine locally, follow these steps:
-1.Clone the repository or download the source code.
-1.Open a terminal and navigate to the project directory.
-1.Install the dependencies by running the command: npm install
-1.Start the development server with the command: npm start
-1.Open your web browser and visit http://localhost:3000 to see the application running.
+1. Clone the repository or download the source code.
+1. Open a terminal and navigate to the project directory.
+1. Install the dependencies by running the command: npm install
+1. Start the development server with the command: npm start
+1. Open your web browser and visit http://localhost:3000 to see the application running.
 
 ## Usage
 The drum machine interface is divided into two main sections: the drum pad area and the options area.
